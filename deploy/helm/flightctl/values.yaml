@@ -25,7 +25,7 @@
 
 
 global:
-  target: "standalone" # standalone, acm
+  target: "acm" # standalone, acm
   baseDomain: ""
   baseDomainTls:
     cert: ""
